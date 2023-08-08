@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Alvaro Fernandez Vargas</h1>
 <h3 align="center">Un apasionado programador que le gusta aprender de todo</h3>
 
+- 💬 Actualmente estudio en la Universidad Catolica Boliviana San Pablo
+  
 - 🌱 estoy aprendiendo **Flutter, Laravel , React**
 
 - 💬 Preguntame sobre **PHP, java**
