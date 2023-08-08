@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Alvaro Fernandez</h1>
 <h3 align="center">Un apasionado programador que le gusta aprender nuevas tecnologías</h3>
 
-<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=merlin672098" alt="merlin672098" /></a> </p>
 
 - 🌱 Estoy aprendiendo **Flutter, Laravel, React**
 
@@ -14,7 +13,7 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/en/www.linkedin.com/en/alvarr-fernandez-vargas-055998185" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alvarr-fernandez- vargas-055998185" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JFsFfQss" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https:// discordia.gg/JFsFfQss" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/JFsFfQss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https:// discordia.gg/JFsFfQss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
